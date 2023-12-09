@@ -1,10 +1,3 @@
-# Info
- Hi there 👋
-<p align="center">
- <img src="https://raw.githubusercontent.com/xyz-sundram/readme-generator/master/generated/languages.svg"/>
- <img src="https://raw.githubusercontent.com/xyz-sundram/readme-generator/master/generated/overview.svg"/>
-</p>
-
 # ⚡ About Me
 - High School student, noob in coding world
 - I currently know python, git, linux shell, HTML, css and basic javascript
