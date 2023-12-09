@@ -1,16 +1,18 @@
-### Hi there 👋
+# Info
+ Hi there 👋
+<p align="center">
+ <img src="https://raw.githubusercontent.com/xyz-sundram/readme-generator/master/generated/languages.svg"/>
+ <img src="https://raw.githubusercontent.com/xyz-sundram/readme-generator/master/generated/overview.svg"/>
+</p>
 
-<!--
-**xyz-sundram/xyz-sundram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚡ About Me
+- High School student, noob in coding world
+- I currently know python, git, linux shell, HTML, css and basic javascript
+- I have Galaxy m30s and Redmi Note 6 Pro | Tulip )
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🔭 My work
+- Maintaining both of my devices, trees in my profile
+- Maintaining havoc's A11 sources under HavocOS-Revived name - https://github.com/Havoc-OS-Revived
+ 
+# 📫 How to reach me:
+[Telegram](https://t.me/Nerd_sundram)
