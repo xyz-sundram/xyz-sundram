@@ -10,18 +10,6 @@ Hello there! 👋 I'm a student currently preparing for the JEE exam, so I'm not
 - 🛠 **Maintainer**: Maintaining a fork of Havoc OS with the latest security patches.
 - 📚 **Learner**: Continuously learning and hoping to contribute more in the future.
 
-## Current Projects
-
-### Custom ROMs
-
-I'm working on custom ROMs to enhance the performance and features of various Android devices. Currently focused on:
-- **Samsung M30s**
-- **Redmi Note 6 Pro**
-
-### Havoc OS Fork (Deprecated)
-
-I was maintaining a fork of Havoc OS with the latest security patches. However, this project is now deprecated as Android has dropped support for Android 11.
-
 ## Goals
 
 - Improve my Android development skills.
@@ -35,11 +23,6 @@ I'm always open to connecting with fellow developers and enthusiasts. Feel free 
 - 📧 **Email**: [sundrraam@gmail.com]
 - 💬 **Discord**: [Sundram.exe#0320]
 - 📱 **Telegram**: [@sundram21]
-
-## Acknowledgements
-
-- Special thanks to the Android development community for all the support and resources.
-- Gratitude to the Havoc OS team for their amazing work.
 
 ## Support
 
